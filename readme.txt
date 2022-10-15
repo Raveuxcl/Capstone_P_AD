@@ -2,8 +2,8 @@ Integrantes:
 - Javier Vega
 - Vicente Gallardo
 
-Este proyecto analiza el estado del servicio de antenas de servicio movil (UPTIME) en la Region Metropolitana y como se ve afectado el funcionamiento del servicio cuando existen precipitaciones, o bien cuando existen variaciones
-en la temperatura. Este analisis se hizo con el analisis de varios data sets, especicifamente:
+Este proyecto analiza el estado del servicio de antenas de servicio movil (UPTIME) en la Region Metropolitana y como se ve afectado cuando existen precipitaciones, o bien cuando existen variaciones
+en la temperatura, para posteriormente utilizar estas variables y ejecutar un modelo de forecasting predictivo con base autoregresiva y variables exógenas. Durante el desarrollo se utilizan varios data sets, especicifamente:
 
 Uptime:
 	- raw.uptime.20222.csv
@@ -21,6 +21,5 @@ Temperatura
 
 
 Se utilizaron sensores de las comunas de El Paico, La Reina(Eulogio Sanchez), Pudahuel, Quinta Normal y San Jose, que tiene la Direccion Meteorologica de Chile.
-Primero se trabajaron las bases por separados, reemplazando valores nulos y trabajando el formato de los datos. Luego se unieron las bases y se entreno un modelo Random Forest.
 
-Para el recorrido de este proyecto es necesario leer el notebook de Jupyter Capstone Project.
+Para el recorrido de este proyecto es necesario leer el notebook o archio html "Capstone Project".
