@@ -2,8 +2,7 @@ Integrantes:
 - Javier Vega
 - Vicente Gallardo
 
-Este proyecto analiza el estado del servicio de antenas de servicio movil (UPTIME) en la Region Metropolitana y como se ve afectado cuando existen precipitaciones, o bien cuando existen variaciones
-en la temperatura, para posteriormente utilizar estas variables y ejecutar un modelo de forecasting predictivo con base autoregresiva y variables exógenas. Durante el desarrollo se utilizan varios data sets, especicifamente:
+Este proyecto analiza el estado del servicio de antenas de servicio movil (UPTIME) en la Region Metropolitana y como se ve afectado cuando existen precipitaciones, o bien cuando existen variaciones en la temperatura, para posteriormente utilizar estas variables y ejecutar un modelo de forecasting predictivo con base autoregresiva y variables exógenas. Durante el desarrollo se utilizan varios data sets, especicifamente:
 
 Uptime:
 	- raw.uptime.20222.csv
